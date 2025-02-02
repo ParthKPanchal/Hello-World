@@ -1,2 +1,1 @@
-# Hello-World
-Learning basic of GitHub
+Main Content
